@@ -1,5 +1,5 @@
 ### Olá, eu sou o Misael 
-### Sou um desenvolvedor que foca em se aperfeiçoar para ser um bom profissional
+### Sou um desenvolvedor que foca no aperfeiçoamento e metodologias ágeis para ser um bom profissional
 - Me considero um entusiasta da Tecnologia e estudo linguagem Java.
 - À procura de um emprego, entre em contato comigo: 
   - misael.araujo.silva123@gmail.com
