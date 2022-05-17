@@ -1,7 +1,9 @@
 ### Olá, eu sou o Misael 
 ### Sou um desenvolvedor que foca em se aperfeiçoar para ser um bom profissional
 - Me considero um entusiasta da Tecnologia e estudo linguagem Java.
-- À procura de um emprego.
+- À procura de um emprego, entre em contato comigo: 
+  - misael.araujo.silva123@gmail.com
+  - 12 98192-7463
 
 ## Linguagem 
 <img align="center" hight=40 width=56 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
